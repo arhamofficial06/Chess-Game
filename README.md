@@ -2,7 +2,7 @@
 
 A real-time multiplayer chess game built with Node.js, Socket.IO, and chess.js. Play chess with friends in real-time with automatic role assignment and spectator support.
 
-![Chess Game Demo](./Screenshot.png)
+![Chess Game Demo](https://github.com/user-attachments/assets/b4c86729-d5f1-4290-a074-35de7517596a)
 
 ## ✨ Features
 
