@@ -5,7 +5,7 @@ A real-time multiplayer chess game built with Node.js, Socket.IO, and chess.js. 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b4c86729-d5f1-4290-a074-35de7517596a" 
        alt="Chess Game Demo" 
-       width="500"
+       width="400"
        style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
