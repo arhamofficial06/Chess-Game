@@ -2,7 +2,12 @@
 
 A real-time multiplayer chess game built with Node.js, Socket.IO, and chess.js. Play chess with friends in real-time with automatic role assignment and spectator support.
 
-![Chess Game Demo](https://github.com/user-attachments/assets/b4c86729-d5f1-4290-a074-35de7517596a)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b4c86729-d5f1-4290-a074-35de7517596a" 
+       alt="Chess Game Demo" 
+       width="800"
+       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 ## ✨ Features
 
@@ -26,15 +31,16 @@ A real-time multiplayer chess game built with Node.js, Socket.IO, and chess.js. 
 | EJS | Templating |
 
 ## 📁 Project Structure
-📦 Chess-Game
-├── 📄 app.js # Main server
-├── 📄 package.json # Dependencies
-├── 📄 style.css # Custom styling
-├── 📄 chessgame.js # Frontend logic
-├── 📄 backendSetup.yaml # Backend docs
-├── 📄 frontendSetup.yaml # Frontend docs
-└── 📁 views/
-└── 📄 index.ejs # Game template
+
+| File/Folder | Description |
+|-------------|-------------|
+| app.js | Main server file (Node.js/Express) |
+| package.json | Project dependencies and scripts |
+| style.css | Custom styling for chessboard |
+| chessgame.js | Frontend game logic |
+| backendSetup.yaml | Backend architecture documentation |
+| frontendSetup.yaml | Frontend architecture documentation |
+| views/index.ejs | Game template (EJS) |
 
 ## 🚀 Quick Start
 
